@@ -1,0 +1,17 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "This repository is for building a Todo List API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/subgraph": "^0.1.4",
+    "apollo-server": "^3.5.0",
+    "graphql": "^15.7.2"
+  }
+}
